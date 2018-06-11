@@ -73,6 +73,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     DaylightHeaderNitrogen \
     Launcher3 \
+    messaging \
     NitrogenWallpapers \
     OmniJaws \
     Stk \
