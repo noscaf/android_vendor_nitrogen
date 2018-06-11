@@ -1,5 +1,5 @@
 #Common OTA url for all devices
-ota_url=http://xyyx-dev.ru/nitrogen-os/oreo/ota.xml
+ota_url=https://raw.githubusercontent.com/nosz00l/OTA/master/ota.xml
 release_type=Stable
 device_name=ro.nitrogen.device
 version_source=ro.nitrogen.ota.version
